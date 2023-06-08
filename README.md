@@ -19,4 +19,5 @@ Simply insert / edit:
 1. Your Coreum address
 2. The date you first started staking
 3. The path where the generated CSV file shall be stored.
-4. Either run the program manually to take snapshots or run automated via eg. Cronjob.
+
+Either run the program manually to take snapshots or run automated via eg. Cronjob.
